@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "084CD7525B7EDAB6D2DACE244DA0FAF2E687FEC6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0C403613E9B3B5C85A090F04FADA453BF2A68240" : 9223372036854775807,
+    "084CD7525B7EDAB6D2DACE244DA0FAF2E687FEC6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C47DA809-BE7D-4806-A37C-85CAB73EAD78",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0C403613E9B3B5C85A090F04FADA453BF2A68240" : "",
+    "084CD7525B7EDAB6D2DACE244DA0FAF2E687FEC6" : "iPhone%20Images\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iPhone Images",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iPhone Images.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:thiagohissa\/iPhone-Images.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "084CD7525B7EDAB6D2DACE244DA0FAF2E687FEC6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:thiagohissa\/Threelow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C403613E9B3B5C85A090F04FADA453BF2A68240"
+    }
+  ]
+}
